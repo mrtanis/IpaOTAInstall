@@ -25,7 +25,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ds.jszs</string>
+                <string>com.ds.jszs.adhoc</string>
                 <key>bundle-version</key>
                 <string>1.2.1.4</string>
                 <key>kind</key>
